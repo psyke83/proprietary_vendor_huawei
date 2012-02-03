@@ -25,7 +25,6 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8160/proprietary/bin/akmd2:system/bin/akmd2 \
     vendor/huawei/u8160/proprietary/bin/akmd8962:system/bin/akmd8962 \
     vendor/huawei/u8160/proprietary/bin/akmd8975:system/bin/akmd8975 \
-    vendor/huawei/u8160/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus \
     vendor/huawei/u8160/proprietary/bin/qmuxd:system/bin/qmuxd \
     vendor/huawei/u8160/proprietary/bin/rild:system/bin/rild
 
